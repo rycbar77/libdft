@@ -1,0 +1,19 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs/MyPinTool
+/Debug
+.idea/
+obj-intel64/
+obj-ia32/
+.cache
+pin.log
+pintool.log
+compile_commands.json
+server/target
+libdft/obj-intel64/
+tool/obj-intel64/
+libdft/obj-ia32/
+tool/obj-ia32/
+server/taints
